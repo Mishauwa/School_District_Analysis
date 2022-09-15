@@ -1,7 +1,7 @@
 # School_District_Analysis
 Python Analysis of school data
 
-Link to the solution: 
+Link to the solution: https://github.com/Mishauwa/School_District_Analysis/blob/main/Challenge_Solution.ipynb
 
 ## Project Overview
 In the following school district analysis project a dateset with student data has to get analysed. 
