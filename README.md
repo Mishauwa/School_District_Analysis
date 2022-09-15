@@ -27,7 +27,7 @@ After cleaning the data and removing duplicates and NAN (mostly missing reading 
     <img width="190" alt="schoolbudget_byschooltype" src="https://user-images.githubusercontent.com/69826498/190482975-e16adedd-c892-44d9-a3b6-2219717489fb.png">
 
 
-- In the amount of students per school is a high variation between the schools (min: 171 max: 2038)
+- The amount of students per school has a high variation between the schools (min: 171 max: 2038)
     
     <img width="256" alt="studentcountbyschool" src="https://user-images.githubusercontent.com/69826498/190481940-4a1c36cd-827d-4147-b141-22cb0dd5b4f3.png">
 
@@ -36,8 +36,8 @@ After cleaning the data and removing duplicates and NAN (mostly missing reading 
     <img width="217" alt="Math_score_byschooltype" src="https://user-images.githubusercontent.com/69826498/190482122-60382cfa-a74f-41c7-ab66-693b9ec59535.png">
 
   
-## Additional Analysis
+## Possible future additional analysis
 
-- Compare whether the number of students per school is affecting reading or math scores 
+- Compare whether the number of students per school is affecting the reading or math scores 
     
 - Compare reading and math scores between the schools and their school budgets
