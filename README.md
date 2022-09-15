@@ -14,6 +14,9 @@ The dataset provides detailed information about the students and schools. The ta
 - Deliverable 5: Compare and contrast the data through grouping and aggregation functions.
 - Deliverable 6: A written analysis of your results (README.md).
 
+Below you can see an overview of the dataset with it's provided information.
+
+<img width="775" alt="Data_overview" src="https://user-images.githubusercontent.com/69826498/190483969-cce1c8eb-352d-4224-bb1b-ce9c27a7bf80.png">
 
 After cleaning the data and removing duplicates and NAN (mostly missing reading and maths scores by students) we could start the anlaysis with a clean set. 
 
