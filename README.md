@@ -18,7 +18,11 @@ Deliverable 6: A written analysis of your results (README.md).
 After cleaning the data and removing duplicates and NAN (mostly missing reading and maths scores by students) we could start the anlaysis with a clean set. 
 
 ## Results and Findings
+
+- The average budget between charter and public schools is nearly the same 
     
+    <img width="190" alt="schoolbudget_byschooltype" src="https://user-images.githubusercontent.com/69826498/190482975-e16adedd-c892-44d9-a3b6-2219717489fb.png">
+
     - The average budget between charter and public schools is nearly the same 
     
     <img width="190" alt="schoolbudget_byschooltype" src="https://user-images.githubusercontent.com/69826498/190481873-6b07f7c2-9827-4d34-acb2-5ef993c4a4a7.png">
